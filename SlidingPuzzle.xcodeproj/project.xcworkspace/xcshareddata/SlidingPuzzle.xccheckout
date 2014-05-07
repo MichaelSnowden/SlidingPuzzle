@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8CD1DAA7-2D32-4431-9B1A-0C4BB192AD9D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SlidingPuzzle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>13856BEE-84CD-4A1E-9A53-995F64DC4E31</key>
+		<string>https://github.com/doctordoder/SlidingPuzzle.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SlidingPuzzle.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>13856BEE-84CD-4A1E-9A53-995F64DC4E31</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/doctordoder/SlidingPuzzle.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>13856BEE-84CD-4A1E-9A53-995F64DC4E31</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>13856BEE-84CD-4A1E-9A53-995F64DC4E31</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MySpriteKitGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
